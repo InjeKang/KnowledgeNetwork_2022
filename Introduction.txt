@@ -1,0 +1,6 @@
+Code made in 2022
+
+To examine the characteristics of the knowledge network
+>> itertools.combinations to address the co-occurence
+
+To examine the characteristics of knowledge, i.e. knowledge breadth and depth
